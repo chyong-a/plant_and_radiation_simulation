@@ -1,0 +1,5 @@
+3
+Puffs p 0
+Deltatree d 0
+Parabush b -2
+10
